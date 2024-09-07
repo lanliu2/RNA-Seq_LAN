@@ -16,10 +16,10 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repository/rna-seq-analysis-tool.git
+git clone https://github.com/lanliu2/RNA-Seq_LAN.git
 
 # 进入项目目录
-cd rna-seq-analysis-tool
+cd rna_seq_analysis
 
 # 安装依赖
 pip install -r requirements.txt
